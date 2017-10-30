@@ -1,0 +1,108 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sohamkale/.android/build-cache/d4e7719558bcf36ca9eb40c1b2a077855014ecb1/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/fcc8bb131a0a186afe36f7465458cda314287e7c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/36a86d2250b406809230649f3c3db5c51e746411/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/207e9bf28e492b4fe0e3b0fd8acf329a9b43996d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/7f3529e04fe66e9036465c49996b4e8ee96e4be1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/a96d315c837076fd2f16fc1ba2d0949e05fd8bd3/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/b879c44ac8ea8a678fb11b57d081365525785dca/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/3585203ac316e1c0fdcddddc9fd0eb5b92da8772/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/23b8125393bbeddcdabba6146705ef20cb269124/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/c77f3ef1d25eb9c0bce7e1c8feb3190695a11a51/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/20be6b979aba14c94514ef94499e91a4e3996cc5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/fef5ea0b78accaf4b952e2df7ac5bba53a8c7ce9/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.rafelix.napp.MainActivity
+ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.rafelix.napp.CalendarActivity
+ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:19:9-54
+	android:name
+		ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:19:19-51
+activity#com.example.rafelix.napp.NapActivity
+ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:20:9-23:68
+	android:label
+		ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:22:13-55
+	android:theme
+		ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml:21:13-40
+uses-sdk
+INJECTED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sohamkale/.android/build-cache/d4e7719558bcf36ca9eb40c1b2a077855014ecb1/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.alamkanak:android-week-view:1.2.6] /Users/sohamkale/.android/build-cache/3179590b4f26cca77a203d3446b82a5b2c3dad3c/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/fcc8bb131a0a186afe36f7465458cda314287e7c/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/36a86d2250b406809230649f3c3db5c51e746411/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/207e9bf28e492b4fe0e3b0fd8acf329a9b43996d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/7f3529e04fe66e9036465c49996b4e8ee96e4be1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/e6ffa5f5ff041255d0047f65848202881ec2b843/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/a96d315c837076fd2f16fc1ba2d0949e05fd8bd3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/b879c44ac8ea8a678fb11b57d081365525785dca/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/3585203ac316e1c0fdcddddc9fd0eb5b92da8772/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/23b8125393bbeddcdabba6146705ef20cb269124/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/c77f3ef1d25eb9c0bce7e1c8feb3190695a11a51/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/20be6b979aba14c94514ef94499e91a4e3996cc5/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/fef5ea0b78accaf4b952e2df7ac5bba53a8c7ce9/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/fcc8bb131a0a186afe36f7465458cda314287e7c/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sohamkale/Documents/napp/MyApplication/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/fcc8bb131a0a186afe36f7465458cda314287e7c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/36a86d2250b406809230649f3c3db5c51e746411/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/207e9bf28e492b4fe0e3b0fd8acf329a9b43996d/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/7f3529e04fe66e9036465c49996b4e8ee96e4be1/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/e6ffa5f5ff041255d0047f65848202881ec2b843/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/a96d315c837076fd2f16fc1ba2d0949e05fd8bd3/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/b879c44ac8ea8a678fb11b57d081365525785dca/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/3585203ac316e1c0fdcddddc9fd0eb5b92da8772/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/23b8125393bbeddcdabba6146705ef20cb269124/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/c77f3ef1d25eb9c0bce7e1c8feb3190695a11a51/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/20be6b979aba14c94514ef94499e91a4e3996cc5/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/fef5ea0b78accaf4b952e2df7ac5bba53a8c7ce9/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/fcc8bb131a0a186afe36f7465458cda314287e7c/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/sohamkale/.android/build-cache/fcc8bb131a0a186afe36f7465458cda314287e7c/output/AndroidManifest.xml:26:9-47

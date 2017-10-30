@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Napp</string>
+    <string name="title_activity_nap">NapActivity</string>
+</resources>
